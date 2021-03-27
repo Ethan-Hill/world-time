@@ -1,4 +1,4 @@
-# world_time
+# world-time
 
 A new Flutter application.
 
